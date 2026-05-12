@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **francovictor-dev/francovictor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Desenvolvedor Full Stack focado em:
 - Supabase
 - Node.js
 
-## Projetos em destaque
+### Projetos em destaque
 - MicroJobs: https://portfolio-six-kohl-99.vercel.app/
 - Amazoncards: https://www.amazoncards.com.br/
 - Kairós App Spa: https://apps.apple.com/br/app/kairos-spa-ltda/id6747466040
