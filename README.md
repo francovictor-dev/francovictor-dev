@@ -24,7 +24,7 @@ Desenvolvedor Full Stack focado em:
 - Node.js
 
 ### Projetos em destaque
-- MicroJobs: https://portfolio-six-kohl-99.vercel.app/
+- MicroJobs: www.microjobs.com.br/
 - Amazoncards: https://www.amazoncards.com.br/
 - Kairós App Spa: https://apps.apple.com/br/app/kairos-spa-ltda/id6747466040
 
