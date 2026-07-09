@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Franco Victor 👋
+# Franco Victor Ribeiro Sousa da Silva👋
 
 Desenvolvedor Full Stack focado em:
 - Next.js
@@ -30,36 +30,36 @@ Desenvolvedor Full Stack focado em:
 - Kairós App Spa: https://apps.apple.com/br/app/kairos-spa-ltda/id6747466040
 - Evosabores - e-commerce food (demo): https://evosabores-1i9eqvlng-francovictordevs-projects.vercel.app/parceiros
 
-### Experiências
+## Experiências
 
-## Stacks principais
+### Stacks principais
 TypeScript/Javascript • React • Nextjs • React Native (Expo) • PostgreSQL • MySQL • Nest.js • Adonisjs • PrismaORM • Expressjs • HTML5 • CSS
 
-## Familiaridades
+### Familiaridades
 Angular • FastAPI • TypeORM • PHP • Expressjs • MongoDB * SASS
 
-## Plataformas Backend
+### Plataformas Backend
 Firebase • Supabase
 
-## CMS
+### CMS
 Strapi
 
-## Infraestrutura
+### Infraestrutura
 Docker - AWS (S3, EC2, ECR)
 
-## Gateways de pagamento
+### Gateways de pagamento
 MercadoPago • Asaas • Banco do Brasil • Stripe
 
-## Sistema de Mensageria
+### Sistema de Mensageria
 BullMQ
 
-## Plataforma de Desenvolvimento
+### Plataforma de Desenvolvimento
 Flutter Flow
 
-## Sistemas operacionais
+### Sistemas operacionais
 Linux • Windows
 
-### Contato
+## Contato
 - LinkedIn - https://www.linkedin.com/in/franco-victor-ribeiro/
 - Portfólio - https://portfolio-six-kohl-99.vercel.app/
 - Email - franco_linkin@hotmail.com / francovictor.ribeiro@gmail.com
