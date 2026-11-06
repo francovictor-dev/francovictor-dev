@@ -26,7 +26,7 @@ Desenvolvedor Full Stack focado em:
 ### Projetos em destaque
 - Amazoncards: https://www.amazoncards.com.br/
 - ZRB - e-commerce (teste): http://18.228.241.180:3333/
-- MicroJobs: www.microjobs.com.br/
+- Recicla Belém - https://recicla-belem.vercel.app/
 - Kairós App Spa: https://apps.apple.com/br/app/kairos-spa-ltda/id6747466040
 - Evosabores - e-commerce food (demo): https://evosabores-1i9eqvlng-francovictordevs-projects.vercel.app/parceiros
 
